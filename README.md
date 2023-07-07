@@ -1,2 +1,2 @@
 # Cartesian Tree
-Cartesian tree implementation with custom key and priority comparator, allocator, randomizer and exception safety.
+Cartesian tree implementation with custom key and priority comparators, allocator, randomizer and exception safety.
